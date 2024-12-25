@@ -63,7 +63,7 @@
         transform: translateY(100vh) rotate(360deg);
         opacity: 0;
     }
-}
+} */
 
 :root {
     --primary-background-color: #f5f5f5;
@@ -75,7 +75,7 @@
     --font-paragraph-p-mobile: 0.8rem;
     --border-image: 999px;
     --border-angles: 15px;
-} */
+} 
 body {
     scroll-behavior: smooth;
     background-image: url(/images/bck.jpeg);
